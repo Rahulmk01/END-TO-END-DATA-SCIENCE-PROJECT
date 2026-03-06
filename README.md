@@ -10,6 +10,9 @@ INTERNSHIP DURATION : 6 WEEKS
 
 INTERN ID : CTIS5094
 
+INTERNSHIP MENTOR : NEELA SANTOSH
+
+
 # House Price Prediction API 🏠
 
 This project is a **Machine Learning based House Price Prediction system** developed using Python.  
